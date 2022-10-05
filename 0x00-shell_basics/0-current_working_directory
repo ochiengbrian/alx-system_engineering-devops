@@ -1,4 +1,3 @@
 #!/bin/bash
-pwd> 0-current_working_directory
-
-echo pwd
+#!/bin/bash
+pwd
